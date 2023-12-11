@@ -1,0 +1,31 @@
+{
+  "name": "visionvibe-sales",
+  "version": "1.0.0",
+  "description": "VisionVibe Sales is a cutting-edge sales optimization platform that leverages computer vision and AI technologies. Built to enhance the sales process, this project aims to provide businesses with tools for customer insights, product recommendations, and performance analytics.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sales",
+    "optimization",
+    "computer vision",
+    "AI",
+    "customer insights",
+    "product recommendations",
+    "performance analytics"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "tensorflow.js": "^3.8.0",
+    "visionvibe-service": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.6"
+  }
+}

@@ -1,0 +1,59 @@
+# Node.js
+node_modules/
+
+# Build files
+/build/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+
+# Test coverage
+coverage/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Compiled files
+*.min.js
+*.min.css
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Editor backup files
+*~
+.#*
+
+# Mac OS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Visual Studio Code workspace settings
+.vscode/settings.json
+
+# Jest cache
+.jest-cache/
+
+# MongoDB data directory
+/data/
+
+# Generated documentation
+/docs/
+
+# Generated demo
+/demo/
+
+# Generated assets
+/public/assets/
